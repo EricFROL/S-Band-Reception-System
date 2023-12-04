@@ -4,4 +4,5 @@ Sistema de recepció de la Banda-S amb SDR. Allà trobem senyals de tots tipus, 
 S'empra un SDR, dos filtres, dos LNAs, i fonts d'alimentació. I esclar, un ordinador.
 
 Pressionar sobre la imatge per a ampliar-la.
+
 ![alt text](https://raw.githubusercontent.com/EricFROL/S-Band-Reception-System/main/S-Band-Reception-System-EnCatalaFoto.jpg)
